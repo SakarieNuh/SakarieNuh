@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SakarieNuh
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Software Engineering
+- 🌱 I’m Software Engineer
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me @@
 
